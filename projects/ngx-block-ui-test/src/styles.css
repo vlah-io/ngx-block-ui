@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../../ngx-block-ui/src/assets/css/ngx-block-ui.css";
+@import "~@vlah.io/ngx-loading/assets/css/ngx-loading.css";
+@import "~@vlah.io/ngx-error-box/assets/css/ngx-error-box.css";
+@import "~@vlah.io/ngx-success-box/assets/css/ngx-success-box.css";

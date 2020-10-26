@@ -1,0 +1,26 @@
+.vlahio-block-ui-backdrop, .vlahio-block-ui {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  word-break: break-all;
+}
+.vlahio-block-ui-backdrop.vlahio-absolute, .vlahio-block-ui.vlahio-absolute {
+  position: absolute !important;
+}
+
+.vlahio-block-ui-backdrop {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.vlahio-block-ui {
+  align-items: center;
+  justify-content: center;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=ngx-block-ui.css.map */

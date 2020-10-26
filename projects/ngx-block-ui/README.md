@@ -1,24 +1,5 @@
-# NgxBlockUi
+@vlah.io/ngx-block-ui
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+Set of reusable Angular components (factory workers) to help blocking the UI.
 
-## Code scaffolding
-
-Run `ng generate component component-name --project ngx-block-ui` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project ngx-block-ui`.
-> Note: Don't forget to add `--project ngx-block-ui` or else it will be added to the default project in your `angular.json` file. 
-
-## Build
-
-Run `ng build ngx-block-ui` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Publishing
-
-After building your library with `ng build ngx-block-ui`, go to the dist folder `cd dist/ngx-block-ui` and run `npm publish`.
-
-## Running unit tests
-
-Run `ng test ngx-block-ui` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+For more details read [here](https://github.com/vlah-io/ngx-worker/blob/master/INSTALLATION.md).

@@ -1,7 +1,5 @@
-/*
- * Public API Surface of ngx-block-ui
- */
-
-export * from './lib/ngx-block-ui.service';
-export * from './lib/ngx-block-ui.component';
+export * from './lib/component/block-ui.component';
+export * from './lib/interface/ngx-block-ui.interface';
 export * from './lib/ngx-block-ui.module';
+export * from './lib/worker/block-ui-lifecycle.worker';
+export * from './lib/worker/block-ui.worker';
