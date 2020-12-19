@@ -6,7 +6,7 @@ Package generated with `angular-cli` as follows
 ### Create new
 
 ```
-  ng new ngx-block-ui --createApplication=false --prefix=vlah
+  ng new ngx-block-ui --createApplication=false --prefix=vlahio
   cd ngx-block-ui
 ```
 
@@ -14,7 +14,7 @@ Package generated with `angular-cli` as follows
 
 ```
   cd ngx-block-ui
-  ng generate library ngx-block-ui --prefix=vlah
+  ng generate library ngx-block-ui --prefix=vlahio
 ```
 
 ### Generate test application

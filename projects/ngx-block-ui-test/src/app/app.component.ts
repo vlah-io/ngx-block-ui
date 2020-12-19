@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
-import {BlockUiWorker} from '../../../ngx-block-ui/src/lib/worker/block-ui.worker';
-import {BlockUiLifecycleWorker} from '../../../ngx-block-ui/src/lib/worker/block-ui-lifecycle.worker';
+import {BlockUiWorker} from '../../../ngx-block-ui/src/lib/service/block-ui.worker';
+import {BlockUiLifecycleWorker} from '../../../ngx-block-ui/src/lib/service/block-ui-lifecycle.worker';
 
 @Component({
   selector: 'app-root',

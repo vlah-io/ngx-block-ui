@@ -1,16 +1,15 @@
 {
   "name": "@vlah.io/ngx-block-ui",
-  "version": "4.0.3",
+  "version": "11.0.4",
   "peerDependencies": {
-    "@angular/common": "^10.2.0",
-    "@angular/core": "^10.2.0",
+    "@angular/common": "^11.0.5",
+    "@angular/core": "^11.0.5",
     "@ngx-translate/core": "^13.0.0",
-    "@vlah.io/ngx-error-box": "^4.0.3",
-    "@vlah.io/ngx-helper": "^4.0.3",
-    "@vlah.io/ngx-loading": "^4.0.3",
-    "@vlah.io/ngx-success-box": "^4.0.3",
-    "@vlah.io/ngx-worker": "^4.0.3",
-    "subsink": "^1.0.1"
+    "@vlah.io/ngx-error-box": "^11.0.5",
+    "@vlah.io/ngx-helper": "^11.0.5",
+    "@vlah.io/ngx-loading": "^11.0.5",
+    "@vlah.io/ngx-success-box": "^11.0.5",
+    "@vlah.io/ngx-worker": "^11.0.5"
   },
   "dependencies": {
     "tslib": "^2.0.1"
